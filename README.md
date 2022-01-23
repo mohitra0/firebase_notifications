@@ -1,7 +1,12 @@
 # firebase_notifications
 
 Handling Flutter local Notifications with firebase messaging and sending Notifications with FCM Token
-## Getting Started
+## Instructions
+Before using Notification follow these Steps
+Add Firebase to your Project
+Go To Cloud Messaging and Enable it
+Copy Firebase Server Key from Project Settings > Cloud Messaging > Copy Server key.
+
   <div class="row">
     <img src="https://user-images.githubusercontent.com/69755039/150692411-6c832f99-0ac8-4f6e-b0c0-c1936d4218f5.gif" width="1080" height="850">
   </div>
