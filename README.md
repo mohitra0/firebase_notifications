@@ -3,7 +3,9 @@
 A new Flutter application.
 
 ## Getting Started
-
+  <div class="row">
+    <img src="https://user-images.githubusercontent.com/69755039/150692411-6c832f99-0ac8-4f6e-b0c0-c1936d4218f5.gif" width="1080" height="850">
+  </div>
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
